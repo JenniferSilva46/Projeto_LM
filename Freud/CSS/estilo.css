@@ -226,6 +226,11 @@ i
     {
         width: 75vw;
     }
+
+.conteiner2-video
+{
+    width: 90vw;
+}
     
 }
 @media screen and (max-width:768px)
@@ -288,4 +293,8 @@ i
     {
         width: 45vw;
     }
+    .conteiner2-video
+{
+    width: 70vw;
+}
 }
